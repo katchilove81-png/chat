@@ -2,6 +2,12 @@
   "messages": [
     {
       "username": "Zephyra#2494",
+      "message": "holy message delau",
+      "timestamp": "2026-02-12T14:11:07.093Z",
+      "id": "1770905467093"
+    },
+    {
+      "username": "Zephyra#2494",
       "message": "replying to [YukiBreadd#8570]: you are the noob | Holy message delay",
       "timestamp": "2026-02-12T14:10:43.703Z",
       "id": "1770905443703"
@@ -113,14 +119,8 @@
       "message": "hi",
       "timestamp": "2026-02-12T12:51:43.180Z",
       "id": "1770900703180"
-    },
-    {
-      "username": "PlayerTwo",
-      "message": "Second live message",
-      "timestamp": "2026-02-12T12:24:31.310Z",
-      "id": "1770899071310"
     }
   ],
-  "lastUpdated": "2026-02-12T14:10:43.909Z",
+  "lastUpdated": "2026-02-12T14:11:07.307Z",
   "totalMessages": 20
 }

@@ -2,6 +2,12 @@
   "messages": [
     {
       "username": "Zephyra#2494",
+      "message": "replying to [YukiBreadd#8570]: you are the noob | NO I PRO",
+      "timestamp": "2026-02-12T14:10:23.815Z",
+      "id": "1770905423815"
+    },
+    {
+      "username": "Zephyra#2494",
       "message": "Implement slowmode immune and delete perms yes im pro diddy.",
       "timestamp": "2026-02-12T14:09:56.616Z",
       "id": "1770905396616"
@@ -113,14 +119,8 @@
       "message": "Second live message",
       "timestamp": "2026-02-12T11:25:17.352Z",
       "id": "1770895517352"
-    },
-    {
-      "username": "PlayerOne",
-      "message": "First live message",
-      "timestamp": "2026-02-12T11:24:49.563Z",
-      "id": "1770895489563"
     }
   ],
-  "lastUpdated": "2026-02-12T14:09:56.786Z",
+  "lastUpdated": "2026-02-12T14:10:24.036Z",
   "totalMessages": 20
 }

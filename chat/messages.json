@@ -1,6 +1,12 @@
 {
   "messages": [
     {
+      "username": "Zephyra#2494",
+      "message": "Please remove this stupid cooldown.",
+      "timestamp": "2026-02-12T14:09:13.858Z",
+      "id": "1770905353858"
+    },
+    {
       "username": "YukiBreadd#8570",
       "message": "skibidi",
       "timestamp": "2026-02-12T14:08:57.946Z",
@@ -115,6 +121,6 @@
       "id": "1770894922286"
     }
   ],
-  "lastUpdated": "2026-02-12T14:08:58.127Z",
-  "totalMessages": 19
+  "lastUpdated": "2026-02-12T14:09:14.058Z",
+  "totalMessages": 20
 }

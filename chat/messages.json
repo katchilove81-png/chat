@@ -1,6 +1,12 @@
 {
   "messages": [
     {
+      "username": "PlayerTwo",
+      "message": "Second live message",
+      "timestamp": "2026-02-12T11:25:17.352Z",
+      "id": "1770895517352"
+    },
+    {
       "username": "PlayerOne",
       "message": "First live message",
       "timestamp": "2026-02-12T11:24:49.563Z",
@@ -25,6 +31,6 @@
       "id": "1770894922286"
     }
   ],
-  "lastUpdated": "2026-02-12T11:24:49.946Z",
-  "totalMessages": 4
+  "lastUpdated": "2026-02-12T11:25:18.052Z",
+  "totalMessages": 5
 }

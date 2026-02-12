@@ -2,6 +2,12 @@
   "messages": [
     {
       "username": "YukiBreadd#5337",
+      "message": "replying to [hello#5556]: hi | nice",
+      "timestamp": "2026-02-12T13:14:01.023Z",
+      "id": "1770902041023"
+    },
+    {
+      "username": "YukiBreadd#5337",
       "message": "@hello#5556 hello brah",
       "timestamp": "2026-02-12T13:07:23.697Z",
       "id": "1770901643697"
@@ -55,6 +61,6 @@
       "id": "1770894922286"
     }
   ],
-  "lastUpdated": "2026-02-12T13:07:23.951Z",
-  "totalMessages": 9
+  "lastUpdated": "2026-02-12T13:14:01.682Z",
+  "totalMessages": 10
 }

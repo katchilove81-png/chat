@@ -2,6 +2,12 @@
   "messages": [
     {
       "username": "YukiBreadd#8570",
+      "message": "replying to [Zephyra#2494]: holy message delau | bro",
+      "timestamp": "2026-02-12T14:44:33.729Z",
+      "id": "1770907473729"
+    },
+    {
+      "username": "YukiBreadd#8570",
       "message": "bruh",
       "timestamp": "2026-02-12T14:39:26.526Z",
       "id": "1770907166526"
@@ -113,14 +119,8 @@
       "message": "hello?",
       "timestamp": "2026-02-12T14:02:35.500Z",
       "id": "1770904955500"
-    },
-    {
-      "username": "YukiBreadd#5337",
-      "message": "@[YukiBreadd#5337] hi",
-      "timestamp": "2026-02-12T13:22:22.888Z",
-      "id": "1770902542888"
     }
   ],
-  "lastUpdated": "2026-02-12T14:39:27.208Z",
+  "lastUpdated": "2026-02-12T14:44:33.950Z",
   "totalMessages": 20
 }

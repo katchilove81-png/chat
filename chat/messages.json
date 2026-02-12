@@ -1,6 +1,12 @@
 {
   "messages": [
     {
+      "username": "hello#5556",
+      "message": "hi",
+      "timestamp": "2026-02-12T12:51:43.180Z",
+      "id": "1770900703180"
+    },
+    {
       "username": "PlayerTwo",
       "message": "Second live message",
       "timestamp": "2026-02-12T12:24:31.310Z",
@@ -37,6 +43,6 @@
       "id": "1770894922286"
     }
   ],
-  "lastUpdated": "2026-02-12T12:24:32.108Z",
-  "totalMessages": 6
+  "lastUpdated": "2026-02-12T12:51:43.838Z",
+  "totalMessages": 7
 }

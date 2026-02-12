@@ -1,6 +1,12 @@
 {
   "messages": [
     {
+      "username": "YukiBreadd#8570",
+      "message": "replying to [Zephyra#2494]: Noob | im pro you are noob",
+      "timestamp": "2026-02-12T14:11:29.414Z",
+      "id": "1770905489414"
+    },
+    {
       "username": "Zephyra#2494",
       "message": "holy message delau",
       "timestamp": "2026-02-12T14:11:07.093Z",
@@ -113,14 +119,8 @@
       "message": "is this good?",
       "timestamp": "2026-02-12T13:06:29.979Z",
       "id": "1770901589979"
-    },
-    {
-      "username": "hello#5556",
-      "message": "hi",
-      "timestamp": "2026-02-12T12:51:43.180Z",
-      "id": "1770900703180"
     }
   ],
-  "lastUpdated": "2026-02-12T14:11:07.307Z",
+  "lastUpdated": "2026-02-12T14:11:29.799Z",
   "totalMessages": 20
 }

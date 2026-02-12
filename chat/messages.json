@@ -3,10 +3,16 @@
     {
       "username": "hehe",
       "message": "hello",
+      "timestamp": "2026-02-12T11:16:40.478Z",
+      "id": "1770895000478"
+    },
+    {
+      "username": "hehe",
+      "message": "hello",
       "timestamp": "2026-02-12T11:15:22.286Z",
       "id": "1770894922286"
     }
   ],
-  "lastUpdated": "2026-02-12T11:15:22.464Z",
-  "totalMessages": 1
+  "lastUpdated": "2026-02-12T11:16:40.616Z",
+  "totalMessages": 2
 }

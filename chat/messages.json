@@ -2,6 +2,12 @@
   "messages": [
     {
       "username": "YukiBreadd#8570",
+      "message": "yes",
+      "timestamp": "2026-02-12T14:20:53.502Z",
+      "id": "1770906053502"
+    },
+    {
+      "username": "YukiBreadd#8570",
       "message": "huh",
       "timestamp": "2026-02-12T14:16:26.988Z",
       "id": "1770905786988"
@@ -113,14 +119,8 @@
       "message": "replying to [hello#5556]: hi | nice",
       "timestamp": "2026-02-12T13:14:01.023Z",
       "id": "1770902041023"
-    },
-    {
-      "username": "YukiBreadd#5337",
-      "message": "@hello#5556 hello brah",
-      "timestamp": "2026-02-12T13:07:23.697Z",
-      "id": "1770901643697"
     }
   ],
-  "lastUpdated": "2026-02-12T14:16:27.157Z",
+  "lastUpdated": "2026-02-12T14:20:53.670Z",
   "totalMessages": 20
 }

@@ -1,6 +1,12 @@
 {
   "messages": [
     {
+      "username": "YukiBreadd#8570",
+      "message": "replying to [Zephyra#2494]: Noob | you are the noob",
+      "timestamp": "2026-02-12T14:09:50.697Z",
+      "id": "1770905390697"
+    },
+    {
       "username": "Zephyra#2494",
       "message": "Implement the new 0 cooldown.",
       "timestamp": "2026-02-12T14:09:30.441Z",
@@ -113,14 +119,8 @@
       "message": "hello",
       "timestamp": "2026-02-12T11:20:24.893Z",
       "id": "1770895224893"
-    },
-    {
-      "username": "hehe",
-      "message": "hello",
-      "timestamp": "2026-02-12T11:16:40.478Z",
-      "id": "1770895000478"
     }
   ],
-  "lastUpdated": "2026-02-12T14:09:30.650Z",
+  "lastUpdated": "2026-02-12T14:09:50.867Z",
   "totalMessages": 20
 }

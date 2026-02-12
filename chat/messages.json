@@ -1,6 +1,12 @@
 {
   "messages": [
     {
+      "username": "Zephyra#2494",
+      "message": "Implement slowmode immune and delete perms yes im pro diddy.",
+      "timestamp": "2026-02-12T14:09:56.616Z",
+      "id": "1770905396616"
+    },
+    {
       "username": "YukiBreadd#8570",
       "message": "replying to [Zephyra#2494]: Noob | you are the noob",
       "timestamp": "2026-02-12T14:09:50.697Z",
@@ -113,14 +119,8 @@
       "message": "First live message",
       "timestamp": "2026-02-12T11:24:49.563Z",
       "id": "1770895489563"
-    },
-    {
-      "username": "hehe",
-      "message": "hello",
-      "timestamp": "2026-02-12T11:20:24.893Z",
-      "id": "1770895224893"
     }
   ],
-  "lastUpdated": "2026-02-12T14:09:50.867Z",
+  "lastUpdated": "2026-02-12T14:09:56.786Z",
   "totalMessages": 20
 }
